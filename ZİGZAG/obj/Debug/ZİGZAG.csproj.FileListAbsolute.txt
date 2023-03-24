@@ -1,0 +1,13 @@
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.csproj.AssemblyReference.cache
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.csproj.SuggestedBindingRedirects.cache
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.Form1.resources
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.Properties.Resources.resources
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.csproj.GenerateResource.cache
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.csproj.CoreCompileInputs.cache
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\bin\Debug\ZİGZAG.exe.config
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\bin\Debug\ZİGZAG.exe
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\bin\Debug\ZİGZAG.pdb
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\bin\Debug\Guna.UI2.dll
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.csproj.CopyComplete
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.exe
+C:\Users\kln\source\repos\ZİGZAG\ZİGZAG\obj\Debug\ZİGZAG.pdb
